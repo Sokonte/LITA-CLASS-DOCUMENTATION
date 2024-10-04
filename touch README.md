@@ -33,3 +33,9 @@
   6. Preparing my dashboard to present my final analysis. 
 - This stages helped me handle my data and gave me meaningful insights
 - Here is a visual representation of the stages of my data
+  
+![Screenshot of my Data](https://github.com/user-attachments/assets/c220a87c-6934-4ce0-b95f-a8cae65d4053)
+
+![Pivot table](https://github.com/user-attachments/assets/fb80c705-b677-4b09-9daf-aa870e51f599)
+
+![Dashboard](https://github.com/user-attachments/assets/d371d7e6-30dd-43e5-b1f5-720e54e7bfcc)
