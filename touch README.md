@@ -1,4 +1,4 @@
-# EXCEL AS A ANALYSIS TOOL
+# EXCEL AS AN ANALYSIS TOOL
 
 ### FUNDAMENTALS OF DATA ENTRY IN EXCEL
 - A workbook is what launches when you open Excel. In Excel, we have different sheets. Columns are represented by letters and rows by numbers.
