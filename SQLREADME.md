@@ -27,7 +27,7 @@
 ### SQL STATEMENTS
 ``` SQL 
 SELECT * FROM EMPLOYEE
-WHERE Staffid= 'AB401'
+WHERE Staffid = 'AB401'
 ```
 ```SQL
 SELECT SUM(Salary) AS TOTALSALARY From Salary
@@ -35,7 +35,7 @@ SELECT SUM(Salary) AS TOTALSALARY From Salary
 ```SQL
 Update Salary
 Set Salary= 7056999.000
-Where Staffid= 'AB212'
+Where Staffid = 'AB212'
 ```
 ```SQL
 Select e.staffid,
@@ -47,7 +47,7 @@ Select e.staffid,
        s.salary,
 from employee e
 join salary s
-On s.staffid=e.staffid
+On s.staffid = e.staffid
 ```       
 
 
