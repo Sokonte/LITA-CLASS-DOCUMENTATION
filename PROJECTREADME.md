@@ -1,3 +1,4 @@
+![Screenshot 2024-11-04 214723](https://github.com/user-attachments/assets/fbe7568a-bf12-49ea-b011-af76d3a45c5b)
 ## LITA_PROJECT
 ### OVERVIEW
 This project conducts an in-depth analysis of sales Performance for a Retail Store  encompassing various Regions, product types, quantity sold, Order ID, Customer ID, Order date, and unit prices. The primary objective is to derive actionable insights on retrieving each product category's total sales, find the number of sales transactions in each region, find the highest-selling product by total sales value, calculate total revenue per product, calculate monthly sales totals for the current year, find the top 5 customers by total purchase amount, calculate the percentage of total sales contributed by each region, identify products with no sales in the last quarter. The goal is to produce an interactive Power BI dashboard that highlights these findings. 
@@ -31,7 +32,10 @@ This project aims to address the following analyses:
 ### TOOLS AND METHODS
 #### SPREADSHEET TOOL-EXCEL
 The pivot table effectively summarizes total sales by product, region, and month, highlighting key trends. 
-Additionally, Excel formulas are used to calculate average sales per product and total revenue by region, providing valuable insights into sales performance.
+Additionally, Excel formulas are used to calculate average sales per product and total revenue by region, providing valuable insights into sales performance.![Screenshot 2024-11-04 214804](https://github.com/user-attachments/assets/a2910be5-fca9-4982-9b92-79718a942f9e)
+![Screenshot 2024-11-04 214723](https://github.com/user-attachments/assets/9ac67167-8cb4-4840-bea1-ac7e9b044003)
+
+
 	
 #### STRUCTURED QUERY TOOL-SQL
 SQL (Structured Query Language) was used to extract and analyze data from the retail store dataset.
@@ -55,6 +59,8 @@ Order by total in descending orde
 8. Calculate the Percentage of Total Sales Contributed by Each Region
 First, calculate regional sales using SUM.
 Then divide by total sales using a subquery.
+![Screenshot 2024-11-04 214853](https://github.com/user-attachments/assets/0fcd1714-7e54-40a0-aff7-a3cd46493203)![Screenshot 2024-11-04 214916](https://github.com/user-attachments/assets/60119811-7a54-4fe0-8318-40567106dfbe)
+
 
 #### Data Preparation and Cleaning with Power Query
 - Data Import: Import data from Excel
@@ -83,6 +89,8 @@ Then divide by total sales using a subquery.
 - Donut Charts: Provide insights into percentage distribution.
 - Tree Map: Offer detailed data views.
 - Using Slicers and Filters: Enhance user-driven filtering by adding slicers (e.g., Region).
+  ![Screenshot 2024-11-04 214647](https://github.com/user-attachments/assets/e975e967-ed75-4f64-b77f-9d5f890c5cc0)
+
    
 #### RECOMMENDATIONS
 1.	Focus on Region-specific strategies
